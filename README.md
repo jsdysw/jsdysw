@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hits
+
+DalMin's GitHub stats
+
+Algorithm problem solving
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=o_okind)](https://solved.ac/o_okind/)
+
+
+Skills👏
+Platforms & Languages
+Python R C++ MySQL Oracle
+
+Tools
+Git Replit Pycharm Visual Studio Code
+
+📫 Contacts
+Tech Blog Gmail Naver
