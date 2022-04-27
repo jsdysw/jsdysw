@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 
 # Skills ✨ #
-![Badge](https://img.shields.io/badge/{ label }-{ message }.svg?{ style(optional) }&logo={#00599C}&logoColor={ logo color(optional) })
+![Badge](https://img.shields.io/badge/{ label }-{ message }.svg?{ style(optional) }&logo={c++}&logoColor={#00599C})
+
 ![Badge](https://img.shields.io/badge/{ label }-{ message }.svg?{ style(optional) }&logo={ java }&logoColor={ logo color(optional) })
 ![Badge](https://img.shields.io/badge/{ label }-{ message }.svg?{ style(optional) }&logo={ nodejs }&logoColor={ logo color(optional) })
 ![Badge](https://img.shields.io/badge/{ label }-{ message }.svg?{ style(optional) }&logo={ python }&logoColor={ logo color(optional) })
