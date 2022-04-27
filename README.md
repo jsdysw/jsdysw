@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # Jsdysw's GitHub stats 👋 #
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsdysw)](https://github.com/anuraghazra/github-readme-stats)
+
 # Algorithm problem solving 🌱 #
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=o_okind)](https://solved.ac/o_okind/)
