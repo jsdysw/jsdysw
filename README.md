@@ -23,11 +23,16 @@ Here are some ideas to get you started:
 
 
 # Skills ✨ #
-Platforms & Languages
-Python R C++ MySQL Oracle
+![Badge](https://img.shields.io/badge/{ label }-{ message }.svg?{ style(optional) }&logo={ cpp }&logoColor={ logo color(optional) })
+![Badge](https://img.shields.io/badge/{ label }-{ message }.svg?{ style(optional) }&logo={ java }&logoColor={ logo color(optional) })
+![Badge](https://img.shields.io/badge/{ label }-{ message }.svg?{ style(optional) }&logo={ nodejs }&logoColor={ logo color(optional) })
+![Badge](https://img.shields.io/badge/{ label }-{ message }.svg?{ style(optional) }&logo={ python }&logoColor={ logo color(optional) })
+![Badge](https://img.shields.io/badge/{ label }-{ message }.svg?{ style(optional) }&logo={ go }&logoColor={ logo color(optional) })
+![Badge](https://img.shields.io/badge/{ label }-{ message }.svg?{ style(optional) }&logo={ springboot }&logoColor={ logo color(optional) })
 
 # Interested ✨ #
-Git Replit Pycharm Visual Studio Code
+![Badge](https://img.shields.io/badge/{ label }-{ message }.svg?{ style(optional) }&logo={ deeplearning }&logoColor={ logo color(optional) })
+![Badge](https://img.shields.io/badge/{ label }-{ message }.svg?{ style(optional) }&logo={ backend }&logoColor={ logo color(optional) })
 
 # Contacts 📫 #
 
