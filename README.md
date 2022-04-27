@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Jsdysw's GitHub stats 👋 #
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsdysw)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsdysw&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # Algorithm problem solving 🌱 #
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 Platforms & Languages
 Python R C++ MySQL Oracle
 
-# Tools #
+# Interested ✨ #
 Git Replit Pycharm Visual Studio Code
 
 # Contacts 📫 #
