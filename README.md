@@ -18,7 +18,8 @@ Hits
 
 DalMin's GitHub stats
 
-Algorithm problem solving
+Algorithm problem solving 🌱 
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=o_okind)](https://solved.ac/o_okind/)
 
 
