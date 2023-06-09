@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 # Interested 💬
 
-<img alt="DeepLearning" src ="https://img.shields.io/badge/DeepLearning-00599C.svg?&style=for-the-badge&logo=DeepLearning&logoColor=white"> <img alt="Backend" src ="https://img.shields.io/badge/Backend-6DB33F.svg?&style=for-the-badge&logo=Backend&logoColor=white"/>
+<img alt="DeepLearning" src ="https://img.shields.io/badge/DeepLearning-00599C.svg?&style=for-the-badge&logo=DeepLearning&logoColor=white"> 
 
 # Contacts 📫 
 
