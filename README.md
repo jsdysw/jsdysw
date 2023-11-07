@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 # Contacts 📫 
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://jsdysw.tistory.com/)](https://jsdysw.tistory.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seokwon-yoon-18932a238/)](https://www.linkedin.com/in/seokwon-yoon-18932a238/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seokwon-yoon-18932a238/)](https://www.linkedin.com/in/seokwon-kyle-yoon-18932a238/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jsdysw@gmail.com)](mailto:jsdysw@gmail.com)
 	
