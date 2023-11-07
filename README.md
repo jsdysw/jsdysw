@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 # Interested 💬
 
 <img alt="DeepLearning" src ="https://img.shields.io/badge/DeepLearning-00599C.svg?&style=for-the-badge&logo=DeepLearning&logoColor=white"> 
-
+-->
 # Contacts 📫 
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://jsdysw.tistory.com/)](https://jsdysw.tistory.com/)
